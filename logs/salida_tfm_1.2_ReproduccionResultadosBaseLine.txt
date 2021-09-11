@@ -1,0 +1,1012 @@
+]0;IPython: Repos/tfm_mulcia
+Dataset :  concrete
+=======================
+Normalizamos matriz...
+
+ -->Dataset:concrete Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.04925518537877442 RMSE: 0.2219350927158083 MAE: 0.17999290731027162
+
+ -->Dataset:concrete Metodo:knn
+------------
+ACCURACY: 0.0 MSE: 0.02979334661900797 RMSE: 0.17260749293992997 MAE: 0.11584951787961056
+
+ -->Dataset:concrete Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.03169180212847701 RMSE: 0.17802191474219406 MAE: 0.13274411551621518
+
+ -->Dataset:concrete Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.06538968957977112 RMSE: 0.25571407778957167 MAE: 0.19398943143072334
+
+ -->Dataset:concrete Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 23.818043
+[SoftImpute] Iter 1: observed MAE=0.013014 rank=8
+[SoftImpute] Iter 2: observed MAE=0.013051 rank=8
+[SoftImpute] Iter 3: observed MAE=0.013087 rank=8
+[SoftImpute] Iter 4: observed MAE=0.013123 rank=8
+[SoftImpute] Iter 5: observed MAE=0.013157 rank=8
+[SoftImpute] Iter 6: observed MAE=0.013190 rank=8
+[SoftImpute] Iter 7: observed MAE=0.013222 rank=8
+[SoftImpute] Iter 8: observed MAE=0.013253 rank=8
+[SoftImpute] Iter 9: observed MAE=0.013283 rank=8
+[SoftImpute] Iter 10: observed MAE=0.013311 rank=8
+[SoftImpute] Iter 11: observed MAE=0.013338 rank=8
+[SoftImpute] Iter 12: observed MAE=0.013364 rank=8
+[SoftImpute] Iter 13: observed MAE=0.013388 rank=8
+[SoftImpute] Iter 14: observed MAE=0.013411 rank=8
+[SoftImpute] Iter 15: observed MAE=0.013433 rank=8
+[SoftImpute] Iter 16: observed MAE=0.013454 rank=8
+[SoftImpute] Iter 17: observed MAE=0.013475 rank=8
+[SoftImpute] Iter 18: observed MAE=0.013494 rank=8
+[SoftImpute] Iter 19: observed MAE=0.013512 rank=8
+[SoftImpute] Iter 20: observed MAE=0.013529 rank=8
+[SoftImpute] Iter 21: observed MAE=0.013546 rank=8
+[SoftImpute] Iter 22: observed MAE=0.013561 rank=8
+[SoftImpute] Iter 23: observed MAE=0.013576 rank=8
+[SoftImpute] Iter 24: observed MAE=0.013590 rank=8
+[SoftImpute] Iter 25: observed MAE=0.013603 rank=8
+[SoftImpute] Iter 26: observed MAE=0.013616 rank=8
+[SoftImpute] Iter 27: observed MAE=0.013628 rank=8
+[SoftImpute] Iter 28: observed MAE=0.013640 rank=8
+[SoftImpute] Iter 29: observed MAE=0.013650 rank=8
+[SoftImpute] Iter 30: observed MAE=0.013661 rank=8
+[SoftImpute] Iter 31: observed MAE=0.013671 rank=8
+[SoftImpute] Iter 32: observed MAE=0.013680 rank=8
+[SoftImpute] Iter 33: observed MAE=0.013689 rank=8
+[SoftImpute] Iter 34: observed MAE=0.013697 rank=8
+[SoftImpute] Iter 35: observed MAE=0.013704 rank=8
+[SoftImpute] Iter 36: observed MAE=0.013712 rank=8
+[SoftImpute] Iter 37: observed MAE=0.013718 rank=8
+[SoftImpute] Iter 38: observed MAE=0.013725 rank=8
+[SoftImpute] Iter 39: observed MAE=0.013731 rank=8
+[SoftImpute] Iter 40: observed MAE=0.013736 rank=8
+[SoftImpute] Iter 41: observed MAE=0.013741 rank=8
+[SoftImpute] Iter 42: observed MAE=0.013746 rank=8
+[SoftImpute] Iter 43: observed MAE=0.013751 rank=8
+[SoftImpute] Iter 44: observed MAE=0.013755 rank=8
+[SoftImpute] Iter 45: observed MAE=0.013759 rank=8
+[SoftImpute] Iter 46: observed MAE=0.013763 rank=8
+[SoftImpute] Iter 47: observed MAE=0.013766 rank=8
+[SoftImpute] Iter 48: observed MAE=0.013770 rank=8
+[SoftImpute] Iter 49: observed MAE=0.013773 rank=8
+[SoftImpute] Iter 50: observed MAE=0.013775 rank=8
+[SoftImpute] Iter 51: observed MAE=0.013778 rank=8
+[SoftImpute] Iter 52: observed MAE=0.013780 rank=8
+[SoftImpute] Iter 53: observed MAE=0.013782 rank=8
+[SoftImpute] Iter 54: observed MAE=0.013784 rank=8
+[SoftImpute] Iter 55: observed MAE=0.013786 rank=8
+[SoftImpute] Iter 56: observed MAE=0.013788 rank=8
+[SoftImpute] Iter 57: observed MAE=0.013789 rank=8
+[SoftImpute] Iter 58: observed MAE=0.013791 rank=8
+[SoftImpute] Iter 59: observed MAE=0.013792 rank=8
+[SoftImpute] Iter 60: observed MAE=0.013793 rank=8
+[SoftImpute] Iter 61: observed MAE=0.013794 rank=8
+[SoftImpute] Iter 62: observed MAE=0.013795 rank=8
+[SoftImpute] Iter 63: observed MAE=0.013796 rank=8
+[SoftImpute] Iter 64: observed MAE=0.013797 rank=8
+[SoftImpute] Iter 65: observed MAE=0.013798 rank=8
+[SoftImpute] Iter 66: observed MAE=0.013799 rank=8
+[SoftImpute] Iter 67: observed MAE=0.013800 rank=8
+[SoftImpute] Iter 68: observed MAE=0.013800 rank=8
+[SoftImpute] Iter 69: observed MAE=0.013801 rank=8
+[SoftImpute] Iter 70: observed MAE=0.013801 rank=8
+[SoftImpute] Iter 71: observed MAE=0.013802 rank=8
+[SoftImpute] Iter 72: observed MAE=0.013803 rank=8
+[SoftImpute] Iter 73: observed MAE=0.013803 rank=8
+[SoftImpute] Iter 74: observed MAE=0.013803 rank=8
+[SoftImpute] Iter 75: observed MAE=0.013804 rank=8
+[SoftImpute] Iter 76: observed MAE=0.013804 rank=8
+[SoftImpute] Iter 77: observed MAE=0.013805 rank=8
+[SoftImpute] Iter 78: observed MAE=0.013805 rank=8
+[SoftImpute] Iter 79: observed MAE=0.013805 rank=8
+[SoftImpute] Iter 80: observed MAE=0.013805 rank=8
+[SoftImpute] Iter 81: observed MAE=0.013806 rank=8
+[SoftImpute] Iter 82: observed MAE=0.013806 rank=8
+[SoftImpute] Iter 83: observed MAE=0.013806 rank=8
+[SoftImpute] Iter 84: observed MAE=0.013806 rank=8
+[SoftImpute] Iter 85: observed MAE=0.013807 rank=8
+[SoftImpute] Iter 86: observed MAE=0.013807 rank=8
+[SoftImpute] Iter 87: observed MAE=0.013807 rank=8
+[SoftImpute] Iter 88: observed MAE=0.013807 rank=8
+[SoftImpute] Iter 89: observed MAE=0.013807 rank=8
+[SoftImpute] Iter 90: observed MAE=0.013807 rank=8
+[SoftImpute] Iter 91: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 92: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 93: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 94: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 95: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 96: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 97: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 98: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 99: observed MAE=0.013808 rank=8
+[SoftImpute] Iter 100: observed MAE=0.013808 rank=8
+[SoftImpute] Stopped after iteration 100 for lambda=0.476361
+ACCURACY: 0.0 MSE: 0.06611520755282231 RMSE: 0.25712877620527486 MAE: 0.1978922175665285
+
+Dataset :  energy
+=======================
+Normalizamos matriz...
+
+ -->Dataset:energy Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.12750706465811412 RMSE: 0.3570813137901704 MAE: 0.3114269934628636
+
+ -->Dataset:energy Metodo:knn
+------------
+ACCURACY: 0.007011866235167206 MSE: 0.06728941999123639 RMSE: 0.2594020431516228 MAE: 0.19274543995710602
+
+ -->Dataset:energy Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.053042271873016085 RMSE: 0.2303090790069208 MAE: 0.15625807760057933
+
+ -->Dataset:energy Metodo:svd
+------------
+ACCURACY: 0.0010787486515641855 MSE: 0.09775074640864673 RMSE: 0.3126511576959963 MAE: 0.23458661613373194
+
+ -->Dataset:energy Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 29.948415
+[SoftImpute] Iter 1: observed MAE=0.019256 rank=8
+[SoftImpute] Iter 2: observed MAE=0.019304 rank=8
+[SoftImpute] Iter 3: observed MAE=0.019352 rank=8
+[SoftImpute] Iter 4: observed MAE=0.019400 rank=8
+[SoftImpute] Iter 5: observed MAE=0.019448 rank=8
+[SoftImpute] Iter 6: observed MAE=0.019496 rank=8
+[SoftImpute] Iter 7: observed MAE=0.019544 rank=8
+[SoftImpute] Iter 8: observed MAE=0.019591 rank=8
+[SoftImpute] Iter 9: observed MAE=0.019637 rank=8
+[SoftImpute] Iter 10: observed MAE=0.019682 rank=8
+[SoftImpute] Iter 11: observed MAE=0.019725 rank=8
+[SoftImpute] Iter 12: observed MAE=0.019768 rank=8
+[SoftImpute] Iter 13: observed MAE=0.019810 rank=8
+[SoftImpute] Iter 14: observed MAE=0.019852 rank=8
+[SoftImpute] Iter 15: observed MAE=0.019894 rank=8
+[SoftImpute] Iter 16: observed MAE=0.019934 rank=8
+[SoftImpute] Iter 17: observed MAE=0.019972 rank=8
+[SoftImpute] Iter 18: observed MAE=0.020009 rank=8
+[SoftImpute] Iter 19: observed MAE=0.020045 rank=8
+[SoftImpute] Iter 20: observed MAE=0.020079 rank=8
+[SoftImpute] Iter 21: observed MAE=0.020112 rank=8
+[SoftImpute] Iter 22: observed MAE=0.020144 rank=8
+[SoftImpute] Iter 23: observed MAE=0.020173 rank=8
+[SoftImpute] Iter 24: observed MAE=0.020202 rank=8
+[SoftImpute] Iter 25: observed MAE=0.020231 rank=8
+[SoftImpute] Iter 26: observed MAE=0.020258 rank=8
+[SoftImpute] Iter 27: observed MAE=0.020284 rank=8
+[SoftImpute] Iter 28: observed MAE=0.020309 rank=8
+[SoftImpute] Iter 29: observed MAE=0.020334 rank=8
+[SoftImpute] Iter 30: observed MAE=0.020357 rank=8
+[SoftImpute] Iter 31: observed MAE=0.020380 rank=8
+[SoftImpute] Iter 32: observed MAE=0.020401 rank=8
+[SoftImpute] Iter 33: observed MAE=0.020420 rank=8
+[SoftImpute] Iter 34: observed MAE=0.020439 rank=8
+[SoftImpute] Iter 35: observed MAE=0.020457 rank=8
+[SoftImpute] Iter 36: observed MAE=0.020474 rank=8
+[SoftImpute] Iter 37: observed MAE=0.020490 rank=8
+[SoftImpute] Iter 38: observed MAE=0.020506 rank=8
+[SoftImpute] Iter 39: observed MAE=0.020520 rank=8
+[SoftImpute] Iter 40: observed MAE=0.020534 rank=8
+[SoftImpute] Iter 41: observed MAE=0.020547 rank=8
+[SoftImpute] Iter 42: observed MAE=0.020559 rank=8
+[SoftImpute] Iter 43: observed MAE=0.020570 rank=8
+[SoftImpute] Iter 44: observed MAE=0.020581 rank=8
+[SoftImpute] Iter 45: observed MAE=0.020591 rank=8
+[SoftImpute] Iter 46: observed MAE=0.020600 rank=8
+[SoftImpute] Iter 47: observed MAE=0.020609 rank=8
+[SoftImpute] Iter 48: observed MAE=0.020618 rank=8
+[SoftImpute] Iter 49: observed MAE=0.020626 rank=8
+[SoftImpute] Iter 50: observed MAE=0.020633 rank=8
+[SoftImpute] Iter 51: observed MAE=0.020639 rank=8
+[SoftImpute] Iter 52: observed MAE=0.020645 rank=8
+[SoftImpute] Iter 53: observed MAE=0.020651 rank=8
+[SoftImpute] Iter 54: observed MAE=0.020656 rank=8
+[SoftImpute] Iter 55: observed MAE=0.020660 rank=8
+[SoftImpute] Iter 56: observed MAE=0.020665 rank=8
+[SoftImpute] Iter 57: observed MAE=0.020669 rank=8
+[SoftImpute] Iter 58: observed MAE=0.020673 rank=8
+[SoftImpute] Iter 59: observed MAE=0.020676 rank=8
+[SoftImpute] Iter 60: observed MAE=0.020680 rank=8
+[SoftImpute] Iter 61: observed MAE=0.020683 rank=8
+[SoftImpute] Iter 62: observed MAE=0.020685 rank=8
+[SoftImpute] Iter 63: observed MAE=0.020688 rank=8
+[SoftImpute] Iter 64: observed MAE=0.020690 rank=8
+[SoftImpute] Iter 65: observed MAE=0.020692 rank=8
+[SoftImpute] Iter 66: observed MAE=0.020693 rank=8
+[SoftImpute] Iter 67: observed MAE=0.020695 rank=8
+[SoftImpute] Iter 68: observed MAE=0.020696 rank=8
+[SoftImpute] Iter 69: observed MAE=0.020697 rank=8
+[SoftImpute] Iter 70: observed MAE=0.020698 rank=8
+[SoftImpute] Iter 71: observed MAE=0.020699 rank=8
+[SoftImpute] Iter 72: observed MAE=0.020700 rank=8
+[SoftImpute] Iter 73: observed MAE=0.020701 rank=8
+[SoftImpute] Iter 74: observed MAE=0.020701 rank=8
+[SoftImpute] Iter 75: observed MAE=0.020702 rank=8
+[SoftImpute] Iter 76: observed MAE=0.020703 rank=8
+[SoftImpute] Iter 77: observed MAE=0.020703 rank=8
+[SoftImpute] Iter 78: observed MAE=0.020704 rank=8
+[SoftImpute] Iter 79: observed MAE=0.020704 rank=8
+[SoftImpute] Iter 80: observed MAE=0.020705 rank=8
+[SoftImpute] Iter 81: observed MAE=0.020705 rank=8
+[SoftImpute] Iter 82: observed MAE=0.020705 rank=8
+[SoftImpute] Iter 83: observed MAE=0.020706 rank=8
+[SoftImpute] Iter 84: observed MAE=0.020706 rank=8
+[SoftImpute] Iter 85: observed MAE=0.020706 rank=8
+[SoftImpute] Iter 86: observed MAE=0.020707 rank=8
+[SoftImpute] Iter 87: observed MAE=0.020707 rank=8
+[SoftImpute] Iter 88: observed MAE=0.020707 rank=8
+[SoftImpute] Iter 89: observed MAE=0.020707 rank=8
+[SoftImpute] Iter 90: observed MAE=0.020708 rank=8
+[SoftImpute] Iter 91: observed MAE=0.020708 rank=8
+[SoftImpute] Iter 92: observed MAE=0.020708 rank=8
+[SoftImpute] Iter 93: observed MAE=0.020708 rank=8
+[SoftImpute] Iter 94: observed MAE=0.020708 rank=8
+[SoftImpute] Iter 95: observed MAE=0.020709 rank=8
+[SoftImpute] Stopped after iteration 95 for lambda=0.598968
+ACCURACY: 0.0010787486515641855 MSE: 0.09903593438634117 RMSE: 0.3146997527586273 MAE: 0.2372384971145305
+
+Dataset :  housing
+=======================
+Normalizamos matriz...
+
+ -->Dataset:housing Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.06395344925711433 RMSE: 0.2528901920935534 MAE: 0.18739002623846343
+
+ -->Dataset:housing Metodo:knn
+------------
+ACCURACY: 0.017258883248730966 MSE: 0.037778565190010265 RMSE: 0.194367088752212 MAE: 0.10781175544790679
+
+ -->Dataset:housing Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.03166645429594105 RMSE: 0.17795070748929617 MAE: 0.12116554904701876
+
+ -->Dataset:housing Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.045316597030640116 RMSE: 0.21287695279348612 MAE: 0.149121421668961
+
+ -->Dataset:housing Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 27.724686
+[SoftImpute] Iter 1: observed MAE=0.018609 rank=13
+[SoftImpute] Iter 2: observed MAE=0.018742 rank=13
+[SoftImpute] Iter 3: observed MAE=0.018873 rank=13
+[SoftImpute] Iter 4: observed MAE=0.018999 rank=13
+[SoftImpute] Iter 5: observed MAE=0.019122 rank=13
+[SoftImpute] Iter 6: observed MAE=0.019238 rank=13
+[SoftImpute] Iter 7: observed MAE=0.019347 rank=13
+[SoftImpute] Iter 8: observed MAE=0.019455 rank=13
+[SoftImpute] Iter 9: observed MAE=0.019562 rank=13
+[SoftImpute] Iter 10: observed MAE=0.019666 rank=13
+[SoftImpute] Iter 11: observed MAE=0.019766 rank=13
+[SoftImpute] Iter 12: observed MAE=0.019860 rank=13
+[SoftImpute] Iter 13: observed MAE=0.019949 rank=13
+[SoftImpute] Iter 14: observed MAE=0.020034 rank=13
+[SoftImpute] Iter 15: observed MAE=0.020114 rank=13
+[SoftImpute] Iter 16: observed MAE=0.020191 rank=13
+[SoftImpute] Iter 17: observed MAE=0.020265 rank=13
+[SoftImpute] Iter 18: observed MAE=0.020336 rank=13
+[SoftImpute] Iter 19: observed MAE=0.020402 rank=13
+[SoftImpute] Iter 20: observed MAE=0.020465 rank=13
+[SoftImpute] Iter 21: observed MAE=0.020523 rank=13
+[SoftImpute] Iter 22: observed MAE=0.020577 rank=13
+[SoftImpute] Iter 23: observed MAE=0.020628 rank=13
+[SoftImpute] Iter 24: observed MAE=0.020674 rank=13
+[SoftImpute] Iter 25: observed MAE=0.020718 rank=13
+[SoftImpute] Iter 26: observed MAE=0.020758 rank=13
+[SoftImpute] Iter 27: observed MAE=0.020795 rank=13
+[SoftImpute] Iter 28: observed MAE=0.020829 rank=13
+[SoftImpute] Iter 29: observed MAE=0.020860 rank=13
+[SoftImpute] Iter 30: observed MAE=0.020888 rank=13
+[SoftImpute] Iter 31: observed MAE=0.020913 rank=13
+[SoftImpute] Iter 32: observed MAE=0.020935 rank=13
+[SoftImpute] Iter 33: observed MAE=0.020955 rank=13
+[SoftImpute] Iter 34: observed MAE=0.020973 rank=13
+[SoftImpute] Iter 35: observed MAE=0.020989 rank=13
+[SoftImpute] Iter 36: observed MAE=0.021003 rank=13
+[SoftImpute] Iter 37: observed MAE=0.021016 rank=13
+[SoftImpute] Iter 38: observed MAE=0.021027 rank=13
+[SoftImpute] Iter 39: observed MAE=0.021036 rank=13
+[SoftImpute] Iter 40: observed MAE=0.021044 rank=13
+[SoftImpute] Iter 41: observed MAE=0.021052 rank=13
+[SoftImpute] Iter 42: observed MAE=0.021058 rank=13
+[SoftImpute] Iter 43: observed MAE=0.021063 rank=13
+[SoftImpute] Iter 44: observed MAE=0.021067 rank=13
+[SoftImpute] Iter 45: observed MAE=0.021071 rank=13
+[SoftImpute] Iter 46: observed MAE=0.021074 rank=13
+[SoftImpute] Iter 47: observed MAE=0.021076 rank=13
+[SoftImpute] Iter 48: observed MAE=0.021078 rank=13
+[SoftImpute] Iter 49: observed MAE=0.021080 rank=13
+[SoftImpute] Iter 50: observed MAE=0.021081 rank=13
+[SoftImpute] Iter 51: observed MAE=0.021082 rank=13
+[SoftImpute] Iter 52: observed MAE=0.021083 rank=13
+[SoftImpute] Iter 53: observed MAE=0.021084 rank=13
+[SoftImpute] Iter 54: observed MAE=0.021084 rank=13
+[SoftImpute] Iter 55: observed MAE=0.021085 rank=13
+[SoftImpute] Iter 56: observed MAE=0.021085 rank=13
+[SoftImpute] Iter 57: observed MAE=0.021085 rank=13
+[SoftImpute] Iter 58: observed MAE=0.021085 rank=13
+[SoftImpute] Iter 59: observed MAE=0.021085 rank=13
+[SoftImpute] Iter 60: observed MAE=0.021084 rank=13
+[SoftImpute] Iter 61: observed MAE=0.021084 rank=13
+[SoftImpute] Iter 62: observed MAE=0.021083 rank=13
+[SoftImpute] Iter 63: observed MAE=0.021083 rank=13
+[SoftImpute] Iter 64: observed MAE=0.021082 rank=13
+[SoftImpute] Iter 65: observed MAE=0.021082 rank=13
+[SoftImpute] Iter 66: observed MAE=0.021081 rank=13
+[SoftImpute] Iter 67: observed MAE=0.021080 rank=13
+[SoftImpute] Iter 68: observed MAE=0.021080 rank=13
+[SoftImpute] Iter 69: observed MAE=0.021079 rank=13
+[SoftImpute] Iter 70: observed MAE=0.021078 rank=13
+[SoftImpute] Iter 71: observed MAE=0.021077 rank=13
+[SoftImpute] Iter 72: observed MAE=0.021077 rank=13
+[SoftImpute] Iter 73: observed MAE=0.021076 rank=13
+[SoftImpute] Iter 74: observed MAE=0.021076 rank=13
+[SoftImpute] Iter 75: observed MAE=0.021075 rank=13
+[SoftImpute] Iter 76: observed MAE=0.021074 rank=13
+[SoftImpute] Iter 77: observed MAE=0.021074 rank=13
+[SoftImpute] Iter 78: observed MAE=0.021073 rank=13
+[SoftImpute] Stopped after iteration 78 for lambda=0.554494
+ACCURACY: 0.0 MSE: 0.04229980279694685 RMSE: 0.2056691585944447 MAE: 0.14017540670173884
+
+Dataset :  kin8nn
+=======================
+Normalizamos matriz...
+
+ -->Dataset:kin8nn Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.08343940299384757 RMSE: 0.28885879421241023 MAE: 0.2498842614454455
+
+ -->Dataset:kin8nn Metodo:knn
+------------
+ACCURACY: 0.0 MSE: 0.11103525982970838 RMSE: 0.3332195369868165 MAE: 0.27820331195088416
+
+ -->Dataset:kin8nn Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.08348083923724198 RMSE: 0.28893050935690745 MAE: 0.2499418209709515
+
+ -->Dataset:kin8nn Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.21617103541596758 RMSE: 0.4649419699446024 MAE: 0.36225454152742054
+
+ -->Dataset:kin8nn Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 94.565974
+[SoftImpute] Iter 1: observed MAE=0.018968 rank=8
+[SoftImpute] Iter 2: observed MAE=0.019039 rank=8
+[SoftImpute] Iter 3: observed MAE=0.019110 rank=8
+[SoftImpute] Iter 4: observed MAE=0.019180 rank=8
+[SoftImpute] Iter 5: observed MAE=0.019250 rank=8
+[SoftImpute] Iter 6: observed MAE=0.019320 rank=8
+[SoftImpute] Iter 7: observed MAE=0.019388 rank=8
+[SoftImpute] Iter 8: observed MAE=0.019456 rank=8
+[SoftImpute] Iter 9: observed MAE=0.019521 rank=8
+[SoftImpute] Iter 10: observed MAE=0.019585 rank=8
+[SoftImpute] Iter 11: observed MAE=0.019648 rank=8
+[SoftImpute] Iter 12: observed MAE=0.019709 rank=8
+[SoftImpute] Iter 13: observed MAE=0.019767 rank=8
+[SoftImpute] Iter 14: observed MAE=0.019824 rank=8
+[SoftImpute] Iter 15: observed MAE=0.019878 rank=8
+[SoftImpute] Iter 16: observed MAE=0.019930 rank=8
+[SoftImpute] Iter 17: observed MAE=0.019980 rank=8
+[SoftImpute] Iter 18: observed MAE=0.020027 rank=8
+[SoftImpute] Iter 19: observed MAE=0.020073 rank=8
+[SoftImpute] Iter 20: observed MAE=0.020116 rank=8
+[SoftImpute] Iter 21: observed MAE=0.020158 rank=8
+[SoftImpute] Iter 22: observed MAE=0.020196 rank=8
+[SoftImpute] Iter 23: observed MAE=0.020233 rank=8
+[SoftImpute] Iter 24: observed MAE=0.020268 rank=8
+[SoftImpute] Iter 25: observed MAE=0.020301 rank=8
+[SoftImpute] Iter 26: observed MAE=0.020331 rank=8
+[SoftImpute] Iter 27: observed MAE=0.020360 rank=8
+[SoftImpute] Iter 28: observed MAE=0.020387 rank=8
+[SoftImpute] Iter 29: observed MAE=0.020412 rank=8
+[SoftImpute] Iter 30: observed MAE=0.020436 rank=8
+[SoftImpute] Iter 31: observed MAE=0.020458 rank=8
+[SoftImpute] Iter 32: observed MAE=0.020479 rank=8
+[SoftImpute] Iter 33: observed MAE=0.020498 rank=8
+[SoftImpute] Iter 34: observed MAE=0.020516 rank=8
+[SoftImpute] Iter 35: observed MAE=0.020533 rank=8
+[SoftImpute] Iter 36: observed MAE=0.020549 rank=8
+[SoftImpute] Iter 37: observed MAE=0.020563 rank=8
+[SoftImpute] Iter 38: observed MAE=0.020577 rank=8
+[SoftImpute] Iter 39: observed MAE=0.020589 rank=8
+[SoftImpute] Iter 40: observed MAE=0.020601 rank=8
+[SoftImpute] Iter 41: observed MAE=0.020612 rank=8
+[SoftImpute] Iter 42: observed MAE=0.020622 rank=8
+[SoftImpute] Iter 43: observed MAE=0.020631 rank=8
+[SoftImpute] Iter 44: observed MAE=0.020640 rank=8
+[SoftImpute] Iter 45: observed MAE=0.020648 rank=8
+[SoftImpute] Iter 46: observed MAE=0.020656 rank=8
+[SoftImpute] Iter 47: observed MAE=0.020663 rank=8
+[SoftImpute] Iter 48: observed MAE=0.020670 rank=8
+[SoftImpute] Iter 49: observed MAE=0.020676 rank=8
+[SoftImpute] Iter 50: observed MAE=0.020682 rank=8
+[SoftImpute] Iter 51: observed MAE=0.020687 rank=8
+[SoftImpute] Iter 52: observed MAE=0.020692 rank=8
+[SoftImpute] Iter 53: observed MAE=0.020697 rank=8
+[SoftImpute] Iter 54: observed MAE=0.020701 rank=8
+[SoftImpute] Iter 55: observed MAE=0.020705 rank=8
+[SoftImpute] Iter 56: observed MAE=0.020709 rank=8
+[SoftImpute] Iter 57: observed MAE=0.020712 rank=8
+[SoftImpute] Iter 58: observed MAE=0.020716 rank=8
+[SoftImpute] Iter 59: observed MAE=0.020719 rank=8
+[SoftImpute] Iter 60: observed MAE=0.020722 rank=8
+[SoftImpute] Iter 61: observed MAE=0.020724 rank=8
+[SoftImpute] Iter 62: observed MAE=0.020727 rank=8
+[SoftImpute] Iter 63: observed MAE=0.020729 rank=8
+[SoftImpute] Iter 64: observed MAE=0.020731 rank=8
+[SoftImpute] Iter 65: observed MAE=0.020733 rank=8
+[SoftImpute] Iter 66: observed MAE=0.020735 rank=8
+[SoftImpute] Iter 67: observed MAE=0.020737 rank=8
+[SoftImpute] Iter 68: observed MAE=0.020739 rank=8
+[SoftImpute] Iter 69: observed MAE=0.020740 rank=8
+[SoftImpute] Iter 70: observed MAE=0.020742 rank=8
+[SoftImpute] Iter 71: observed MAE=0.020743 rank=8
+[SoftImpute] Iter 72: observed MAE=0.020745 rank=8
+[SoftImpute] Iter 73: observed MAE=0.020746 rank=8
+[SoftImpute] Iter 74: observed MAE=0.020747 rank=8
+[SoftImpute] Iter 75: observed MAE=0.020748 rank=8
+[SoftImpute] Iter 76: observed MAE=0.020749 rank=8
+[SoftImpute] Iter 77: observed MAE=0.020750 rank=8
+[SoftImpute] Iter 78: observed MAE=0.020751 rank=8
+[SoftImpute] Iter 79: observed MAE=0.020752 rank=8
+[SoftImpute] Iter 80: observed MAE=0.020753 rank=8
+[SoftImpute] Iter 81: observed MAE=0.020754 rank=8
+[SoftImpute] Iter 82: observed MAE=0.020754 rank=8
+[SoftImpute] Iter 83: observed MAE=0.020755 rank=8
+[SoftImpute] Iter 84: observed MAE=0.020756 rank=8
+[SoftImpute] Iter 85: observed MAE=0.020756 rank=8
+[SoftImpute] Iter 86: observed MAE=0.020757 rank=8
+[SoftImpute] Iter 87: observed MAE=0.020757 rank=8
+[SoftImpute] Stopped after iteration 87 for lambda=1.891319
+ACCURACY: 0.0 MSE: 0.11523919098094189 RMSE: 0.3394689838275978 MAE: 0.28212979178209074
+
+Dataset :  naval
+=======================
+Normalizamos matriz...
+
+ -->Dataset:naval Metodo:mean
+------------
+ACCURACY: 0.11753768182715724 MSE: 0.08370851534102852 RMSE: 0.289324239117687 MAE: 0.23128121681496736
+
+ -->Dataset:naval Metodo:knn
+------------
+ACCURACY: 0.13029026525373527 MSE: 0.0010498572137829514 RMSE: 0.0324015001779694 MAE: 0.00968807744230961
+
+ -->Dataset:naval Metodo:mice
+------------
+ACCURACY: 0.11753768182715724 MSE: 0.0030493782427760303 RMSE: 0.05522117567361302 MAE: 0.020435255474254187
+
+ -->Dataset:naval Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.01370646321218744 RMSE: 0.11707460532578122 MAE: 0.04961894662830079
+
+ -->Dataset:naval Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 149.636888
+[SoftImpute] Iter 1: observed MAE=0.017079 rank=15
+[SoftImpute] Iter 2: observed MAE=0.017118 rank=15
+[SoftImpute] Iter 3: observed MAE=0.017160 rank=15
+[SoftImpute] Iter 4: observed MAE=0.017206 rank=15
+[SoftImpute] Iter 5: observed MAE=0.017258 rank=15
+[SoftImpute] Iter 6: observed MAE=0.017315 rank=15
+[SoftImpute] Iter 7: observed MAE=0.017381 rank=15
+[SoftImpute] Iter 8: observed MAE=0.017457 rank=15
+[SoftImpute] Iter 9: observed MAE=0.017546 rank=15
+[SoftImpute] Iter 10: observed MAE=0.017650 rank=15
+[SoftImpute] Iter 11: observed MAE=0.017778 rank=15
+[SoftImpute] Iter 12: observed MAE=0.017936 rank=15
+[SoftImpute] Iter 13: observed MAE=0.018133 rank=15
+[SoftImpute] Iter 14: observed MAE=0.018383 rank=15
+[SoftImpute] Iter 15: observed MAE=0.018183 rank=10
+[SoftImpute] Iter 16: observed MAE=0.017260 rank=9
+[SoftImpute] Iter 17: observed MAE=0.016909 rank=8
+[SoftImpute] Iter 18: observed MAE=0.016545 rank=8
+[SoftImpute] Iter 19: observed MAE=0.016379 rank=8
+[SoftImpute] Iter 20: observed MAE=0.016281 rank=8
+[SoftImpute] Iter 21: observed MAE=0.016177 rank=7
+[SoftImpute] Iter 22: observed MAE=0.015902 rank=7
+[SoftImpute] Iter 23: observed MAE=0.015790 rank=7
+[SoftImpute] Iter 24: observed MAE=0.015743 rank=7
+[SoftImpute] Iter 25: observed MAE=0.015723 rank=7
+[SoftImpute] Iter 26: observed MAE=0.015714 rank=7
+[SoftImpute] Iter 27: observed MAE=0.015708 rank=7
+[SoftImpute] Iter 28: observed MAE=0.015703 rank=7
+[SoftImpute] Iter 29: observed MAE=0.015700 rank=7
+[SoftImpute] Iter 30: observed MAE=0.015697 rank=7
+[SoftImpute] Iter 31: observed MAE=0.015695 rank=7
+[SoftImpute] Iter 32: observed MAE=0.015694 rank=7
+[SoftImpute] Iter 33: observed MAE=0.015692 rank=7
+[SoftImpute] Iter 34: observed MAE=0.015691 rank=7
+[SoftImpute] Iter 35: observed MAE=0.015690 rank=7
+[SoftImpute] Iter 36: observed MAE=0.015690 rank=7
+[SoftImpute] Iter 37: observed MAE=0.015689 rank=7
+[SoftImpute] Iter 38: observed MAE=0.015689 rank=7
+[SoftImpute] Iter 39: observed MAE=0.015688 rank=7
+[SoftImpute] Iter 40: observed MAE=0.015688 rank=7
+[SoftImpute] Iter 41: observed MAE=0.015688 rank=7
+[SoftImpute] Iter 42: observed MAE=0.015687 rank=7
+[SoftImpute] Iter 43: observed MAE=0.015687 rank=7
+[SoftImpute] Iter 44: observed MAE=0.015687 rank=7
+[SoftImpute] Stopped after iteration 44 for lambda=2.992738
+ACCURACY: 0.0 MSE: 0.010972267911720403 RMSE: 0.10474859384125594 MAE: 0.04084908411309925
+
+Dataset :  power
+=======================
+Normalizamos matriz...
+
+ -->Dataset:power Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.03913954668459874 RMSE: 0.19783717215073293 MAE: 0.16724555471697805
+
+ -->Dataset:power Metodo:knn
+------------
+ACCURACY: 0.0 MSE: 0.03248328123572076 RMSE: 0.18023118829914195 MAE: 0.13551081584915356
+
+ -->Dataset:power Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.021737175490754584 RMSE: 0.14743532646809782 MAE: 0.11624136588141422
+
+ -->Dataset:power Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.09951764479075893 RMSE: 0.31546417354552153 MAE: 0.23614140879564766
+
+ -->Dataset:power Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 80.171628
+[SoftImpute] Iter 1: observed MAE=0.015580 rank=4
+[SoftImpute] Iter 2: observed MAE=0.015574 rank=4
+[SoftImpute] Iter 3: observed MAE=0.015568 rank=4
+[SoftImpute] Iter 4: observed MAE=0.015563 rank=4
+[SoftImpute] Iter 5: observed MAE=0.015558 rank=4
+[SoftImpute] Iter 6: observed MAE=0.015553 rank=4
+[SoftImpute] Iter 7: observed MAE=0.015549 rank=4
+[SoftImpute] Iter 8: observed MAE=0.015546 rank=4
+[SoftImpute] Iter 9: observed MAE=0.015542 rank=4
+[SoftImpute] Iter 10: observed MAE=0.015539 rank=4
+[SoftImpute] Iter 11: observed MAE=0.015537 rank=4
+[SoftImpute] Iter 12: observed MAE=0.015535 rank=4
+[SoftImpute] Iter 13: observed MAE=0.015533 rank=4
+[SoftImpute] Iter 14: observed MAE=0.015531 rank=4
+[SoftImpute] Iter 15: observed MAE=0.015530 rank=4
+[SoftImpute] Iter 16: observed MAE=0.015530 rank=4
+[SoftImpute] Iter 17: observed MAE=0.015530 rank=4
+[SoftImpute] Iter 18: observed MAE=0.015530 rank=4
+[SoftImpute] Iter 19: observed MAE=0.015532 rank=4
+[SoftImpute] Iter 20: observed MAE=0.015534 rank=4
+[SoftImpute] Iter 21: observed MAE=0.015537 rank=4
+[SoftImpute] Iter 22: observed MAE=0.015540 rank=4
+[SoftImpute] Iter 23: observed MAE=0.015545 rank=4
+[SoftImpute] Iter 24: observed MAE=0.015550 rank=4
+[SoftImpute] Iter 25: observed MAE=0.015556 rank=4
+[SoftImpute] Iter 26: observed MAE=0.015562 rank=4
+[SoftImpute] Iter 27: observed MAE=0.015569 rank=4
+[SoftImpute] Iter 28: observed MAE=0.015577 rank=4
+[SoftImpute] Iter 29: observed MAE=0.015585 rank=4
+[SoftImpute] Iter 30: observed MAE=0.015594 rank=4
+[SoftImpute] Iter 31: observed MAE=0.015603 rank=4
+[SoftImpute] Iter 32: observed MAE=0.015613 rank=4
+[SoftImpute] Iter 33: observed MAE=0.015623 rank=4
+[SoftImpute] Iter 34: observed MAE=0.015633 rank=4
+[SoftImpute] Iter 35: observed MAE=0.015644 rank=4
+[SoftImpute] Iter 36: observed MAE=0.015656 rank=4
+[SoftImpute] Iter 37: observed MAE=0.015667 rank=4
+[SoftImpute] Iter 38: observed MAE=0.015679 rank=4
+[SoftImpute] Iter 39: observed MAE=0.015691 rank=4
+[SoftImpute] Iter 40: observed MAE=0.015702 rank=4
+[SoftImpute] Iter 41: observed MAE=0.015714 rank=4
+[SoftImpute] Iter 42: observed MAE=0.015726 rank=4
+[SoftImpute] Iter 43: observed MAE=0.015738 rank=4
+[SoftImpute] Iter 44: observed MAE=0.015749 rank=4
+[SoftImpute] Iter 45: observed MAE=0.015761 rank=4
+[SoftImpute] Iter 46: observed MAE=0.015772 rank=4
+[SoftImpute] Iter 47: observed MAE=0.015783 rank=4
+[SoftImpute] Iter 48: observed MAE=0.015794 rank=4
+[SoftImpute] Iter 49: observed MAE=0.015804 rank=4
+[SoftImpute] Iter 50: observed MAE=0.015815 rank=4
+[SoftImpute] Iter 51: observed MAE=0.015824 rank=4
+[SoftImpute] Iter 52: observed MAE=0.015834 rank=4
+[SoftImpute] Iter 53: observed MAE=0.015843 rank=4
+[SoftImpute] Iter 54: observed MAE=0.015851 rank=4
+[SoftImpute] Iter 55: observed MAE=0.015859 rank=4
+[SoftImpute] Iter 56: observed MAE=0.015867 rank=4
+[SoftImpute] Iter 57: observed MAE=0.015874 rank=4
+[SoftImpute] Iter 58: observed MAE=0.015881 rank=4
+[SoftImpute] Iter 59: observed MAE=0.015888 rank=4
+[SoftImpute] Iter 60: observed MAE=0.015894 rank=4
+[SoftImpute] Iter 61: observed MAE=0.015900 rank=4
+[SoftImpute] Iter 62: observed MAE=0.015905 rank=4
+[SoftImpute] Iter 63: observed MAE=0.015910 rank=4
+[SoftImpute] Iter 64: observed MAE=0.015915 rank=4
+[SoftImpute] Iter 65: observed MAE=0.015920 rank=4
+[SoftImpute] Iter 66: observed MAE=0.015924 rank=4
+[SoftImpute] Iter 67: observed MAE=0.015928 rank=4
+[SoftImpute] Iter 68: observed MAE=0.015931 rank=4
+[SoftImpute] Iter 69: observed MAE=0.015934 rank=4
+[SoftImpute] Iter 70: observed MAE=0.015938 rank=4
+[SoftImpute] Iter 71: observed MAE=0.015940 rank=4
+[SoftImpute] Iter 72: observed MAE=0.015943 rank=4
+[SoftImpute] Iter 73: observed MAE=0.015946 rank=4
+[SoftImpute] Iter 74: observed MAE=0.015948 rank=4
+[SoftImpute] Iter 75: observed MAE=0.015950 rank=4
+[SoftImpute] Iter 76: observed MAE=0.015952 rank=4
+[SoftImpute] Iter 77: observed MAE=0.015954 rank=4
+[SoftImpute] Iter 78: observed MAE=0.015956 rank=4
+[SoftImpute] Iter 79: observed MAE=0.015957 rank=4
+[SoftImpute] Iter 80: observed MAE=0.015959 rank=4
+[SoftImpute] Iter 81: observed MAE=0.015960 rank=4
+[SoftImpute] Iter 82: observed MAE=0.015962 rank=4
+[SoftImpute] Iter 83: observed MAE=0.015963 rank=4
+[SoftImpute] Iter 84: observed MAE=0.015964 rank=4
+[SoftImpute] Iter 85: observed MAE=0.015965 rank=4
+[SoftImpute] Iter 86: observed MAE=0.015966 rank=4
+[SoftImpute] Iter 87: observed MAE=0.015967 rank=4
+[SoftImpute] Iter 88: observed MAE=0.015967 rank=4
+[SoftImpute] Iter 89: observed MAE=0.015968 rank=4
+[SoftImpute] Iter 90: observed MAE=0.015969 rank=4
+[SoftImpute] Iter 91: observed MAE=0.015970 rank=4
+[SoftImpute] Iter 92: observed MAE=0.015970 rank=4
+[SoftImpute] Iter 93: observed MAE=0.015971 rank=4
+[SoftImpute] Iter 94: observed MAE=0.015971 rank=4
+[SoftImpute] Iter 95: observed MAE=0.015972 rank=4
+[SoftImpute] Iter 96: observed MAE=0.015972 rank=4
+[SoftImpute] Iter 97: observed MAE=0.015973 rank=4
+[SoftImpute] Iter 98: observed MAE=0.015973 rank=4
+[SoftImpute] Iter 99: observed MAE=0.015974 rank=4
+[SoftImpute] Iter 100: observed MAE=0.015974 rank=4
+[SoftImpute] Stopped after iteration 100 for lambda=1.603433
+ACCURACY: 0.0 MSE: 0.07930802534428356 RMSE: 0.28161680586265364 MAE: 0.2137956748218883
+
+Dataset :  protein
+=======================
+Normalizamos matriz...
+
+ -->Dataset:protein Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.015296532603906052 RMSE: 0.12367915185634987 MAE: 0.0910437486133404
+
+ -->Dataset:protein Metodo:knn
+------------
+ACCURACY: 0.0 MSE: 0.005348232988203902 RMSE: 0.07313161415013279 MAE: 0.04496002998772243
+
+ -->Dataset:protein Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.003537886061150132 RMSE: 0.059480131650410224 MAE: 0.032867366269857055
+
+ -->Dataset:protein Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.02001541014266612 RMSE: 0.14147582882834128 MAE: 0.07916106501627009
+
+ -->Dataset:protein Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 131.457165
+[SoftImpute] Iter 1: observed MAE=0.009755 rank=9
+[SoftImpute] Iter 2: observed MAE=0.009727 rank=9
+[SoftImpute] Iter 3: observed MAE=0.009711 rank=9
+[SoftImpute] Iter 4: observed MAE=0.009700 rank=9
+[SoftImpute] Iter 5: observed MAE=0.009690 rank=9
+[SoftImpute] Iter 6: observed MAE=0.009682 rank=9
+[SoftImpute] Iter 7: observed MAE=0.009677 rank=9
+[SoftImpute] Iter 8: observed MAE=0.009675 rank=9
+[SoftImpute] Iter 9: observed MAE=0.009675 rank=9
+[SoftImpute] Iter 10: observed MAE=0.009679 rank=9
+[SoftImpute] Iter 11: observed MAE=0.009686 rank=9
+[SoftImpute] Iter 12: observed MAE=0.009698 rank=9
+[SoftImpute] Iter 13: observed MAE=0.009713 rank=9
+[SoftImpute] Iter 14: observed MAE=0.009733 rank=9
+[SoftImpute] Iter 15: observed MAE=0.009756 rank=9
+[SoftImpute] Iter 16: observed MAE=0.009782 rank=9
+[SoftImpute] Iter 17: observed MAE=0.009811 rank=9
+[SoftImpute] Iter 18: observed MAE=0.009842 rank=9
+[SoftImpute] Iter 19: observed MAE=0.009874 rank=9
+[SoftImpute] Iter 20: observed MAE=0.009907 rank=9
+[SoftImpute] Iter 21: observed MAE=0.009943 rank=9
+[SoftImpute] Iter 22: observed MAE=0.009853 rank=8
+[SoftImpute] Iter 23: observed MAE=0.009823 rank=8
+[SoftImpute] Iter 24: observed MAE=0.009824 rank=8
+[SoftImpute] Iter 25: observed MAE=0.009835 rank=8
+[SoftImpute] Iter 26: observed MAE=0.009849 rank=8
+[SoftImpute] Iter 27: observed MAE=0.009863 rank=8
+[SoftImpute] Iter 28: observed MAE=0.009874 rank=8
+[SoftImpute] Iter 29: observed MAE=0.009884 rank=8
+[SoftImpute] Iter 30: observed MAE=0.009893 rank=8
+[SoftImpute] Iter 31: observed MAE=0.009899 rank=8
+[SoftImpute] Iter 32: observed MAE=0.009905 rank=8
+[SoftImpute] Iter 33: observed MAE=0.009909 rank=8
+[SoftImpute] Iter 34: observed MAE=0.009912 rank=8
+[SoftImpute] Iter 35: observed MAE=0.009915 rank=8
+[SoftImpute] Iter 36: observed MAE=0.009917 rank=8
+[SoftImpute] Iter 37: observed MAE=0.009918 rank=8
+[SoftImpute] Iter 38: observed MAE=0.009919 rank=8
+[SoftImpute] Iter 39: observed MAE=0.009919 rank=8
+[SoftImpute] Iter 40: observed MAE=0.009919 rank=8
+[SoftImpute] Iter 41: observed MAE=0.009919 rank=8
+[SoftImpute] Iter 42: observed MAE=0.009919 rank=8
+[SoftImpute] Iter 43: observed MAE=0.009918 rank=8
+[SoftImpute] Iter 44: observed MAE=0.009918 rank=8
+[SoftImpute] Iter 45: observed MAE=0.009917 rank=8
+[SoftImpute] Iter 46: observed MAE=0.009916 rank=8
+[SoftImpute] Iter 47: observed MAE=0.009915 rank=8
+[SoftImpute] Iter 48: observed MAE=0.009914 rank=8
+[SoftImpute] Iter 49: observed MAE=0.009913 rank=8
+[SoftImpute] Iter 50: observed MAE=0.009912 rank=8
+[SoftImpute] Iter 51: observed MAE=0.009911 rank=8
+[SoftImpute] Iter 52: observed MAE=0.009909 rank=8
+[SoftImpute] Iter 53: observed MAE=0.009908 rank=8
+[SoftImpute] Iter 54: observed MAE=0.009907 rank=8
+[SoftImpute] Iter 55: observed MAE=0.009906 rank=8
+[SoftImpute] Iter 56: observed MAE=0.009905 rank=8
+[SoftImpute] Iter 57: observed MAE=0.009904 rank=8
+[SoftImpute] Iter 58: observed MAE=0.009903 rank=8
+[SoftImpute] Iter 59: observed MAE=0.009902 rank=8
+[SoftImpute] Iter 60: observed MAE=0.009900 rank=8
+[SoftImpute] Iter 61: observed MAE=0.009899 rank=8
+[SoftImpute] Iter 62: observed MAE=0.009898 rank=8
+[SoftImpute] Iter 63: observed MAE=0.009897 rank=8
+[SoftImpute] Iter 64: observed MAE=0.009897 rank=8
+[SoftImpute] Iter 65: observed MAE=0.009896 rank=8
+[SoftImpute] Iter 66: observed MAE=0.009895 rank=8
+[SoftImpute] Iter 67: observed MAE=0.009894 rank=8
+[SoftImpute] Iter 68: observed MAE=0.009893 rank=8
+[SoftImpute] Iter 69: observed MAE=0.009892 rank=8
+[SoftImpute] Iter 70: observed MAE=0.009892 rank=8
+[SoftImpute] Iter 71: observed MAE=0.009891 rank=8
+[SoftImpute] Iter 72: observed MAE=0.009890 rank=8
+[SoftImpute] Iter 73: observed MAE=0.009890 rank=8
+[SoftImpute] Iter 74: observed MAE=0.009889 rank=8
+[SoftImpute] Iter 75: observed MAE=0.009888 rank=8
+[SoftImpute] Iter 76: observed MAE=0.009888 rank=8
+[SoftImpute] Iter 77: observed MAE=0.009887 rank=8
+[SoftImpute] Iter 78: observed MAE=0.009887 rank=8
+[SoftImpute] Iter 79: observed MAE=0.009886 rank=8
+[SoftImpute] Iter 80: observed MAE=0.009886 rank=8
+[SoftImpute] Iter 81: observed MAE=0.009885 rank=8
+[SoftImpute] Iter 82: observed MAE=0.009885 rank=8
+[SoftImpute] Iter 83: observed MAE=0.009885 rank=8
+[SoftImpute] Iter 84: observed MAE=0.009884 rank=8
+[SoftImpute] Iter 85: observed MAE=0.009884 rank=8
+[SoftImpute] Iter 86: observed MAE=0.009883 rank=8
+[SoftImpute] Iter 87: observed MAE=0.009883 rank=8
+[SoftImpute] Iter 88: observed MAE=0.009883 rank=8
+[SoftImpute] Iter 89: observed MAE=0.009882 rank=8
+[SoftImpute] Iter 90: observed MAE=0.009882 rank=8
+[SoftImpute] Iter 91: observed MAE=0.009882 rank=8
+[SoftImpute] Iter 92: observed MAE=0.009881 rank=8
+[SoftImpute] Iter 93: observed MAE=0.009881 rank=8
+[SoftImpute] Iter 94: observed MAE=0.009881 rank=8
+[SoftImpute] Iter 95: observed MAE=0.009881 rank=8
+[SoftImpute] Stopped after iteration 95 for lambda=2.629143
+ACCURACY: 0.0 MSE: 0.016345923667038013 RMSE: 0.12785117780856778 MAE: 0.06783621240180854
+
+Dataset :  wine
+=======================
+Normalizamos matriz...
+
+ -->Dataset:wine Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.018679677280447254 RMSE: 0.13667361589 MAE: 0.1001932486250393
+
+ -->Dataset:wine Metodo:knn
+------------
+ACCURACY: 0.0 MSE: 0.012553635006501765 RMSE: 0.11204300516543532 MAE: 0.07118523451089898
+
+ -->Dataset:wine Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.01170981498885474 RMSE: 0.10821189855489433 MAE: 0.07722063928103036
+
+ -->Dataset:wine Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.01767310383047093 RMSE: 0.13294022653234397 MAE: 0.09361652982344998
+
+ -->Dataset:wine Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 28.547992
+[SoftImpute] Iter 1: observed MAE=0.011373 rank=11
+[SoftImpute] Iter 2: observed MAE=0.011392 rank=11
+[SoftImpute] Iter 3: observed MAE=0.011417 rank=11
+[SoftImpute] Iter 4: observed MAE=0.011446 rank=11
+[SoftImpute] Iter 5: observed MAE=0.011479 rank=11
+[SoftImpute] Iter 6: observed MAE=0.011516 rank=11
+[SoftImpute] Iter 7: observed MAE=0.011554 rank=11
+[SoftImpute] Iter 8: observed MAE=0.011594 rank=11
+[SoftImpute] Iter 9: observed MAE=0.011634 rank=11
+[SoftImpute] Iter 10: observed MAE=0.011673 rank=11
+[SoftImpute] Iter 11: observed MAE=0.011711 rank=11
+[SoftImpute] Iter 12: observed MAE=0.011748 rank=11
+[SoftImpute] Iter 13: observed MAE=0.011784 rank=11
+[SoftImpute] Iter 14: observed MAE=0.011818 rank=11
+[SoftImpute] Iter 15: observed MAE=0.011850 rank=11
+[SoftImpute] Iter 16: observed MAE=0.011880 rank=11
+[SoftImpute] Iter 17: observed MAE=0.011908 rank=11
+[SoftImpute] Iter 18: observed MAE=0.011934 rank=11
+[SoftImpute] Iter 19: observed MAE=0.011959 rank=11
+[SoftImpute] Iter 20: observed MAE=0.011983 rank=11
+[SoftImpute] Iter 21: observed MAE=0.012004 rank=11
+[SoftImpute] Iter 22: observed MAE=0.012023 rank=11
+[SoftImpute] Iter 23: observed MAE=0.012041 rank=11
+[SoftImpute] Iter 24: observed MAE=0.012057 rank=11
+[SoftImpute] Iter 25: observed MAE=0.012071 rank=11
+[SoftImpute] Iter 26: observed MAE=0.012085 rank=11
+[SoftImpute] Iter 27: observed MAE=0.012097 rank=11
+[SoftImpute] Iter 28: observed MAE=0.012108 rank=11
+[SoftImpute] Iter 29: observed MAE=0.012119 rank=11
+[SoftImpute] Iter 30: observed MAE=0.012129 rank=11
+[SoftImpute] Iter 31: observed MAE=0.012137 rank=11
+[SoftImpute] Iter 32: observed MAE=0.012145 rank=11
+[SoftImpute] Iter 33: observed MAE=0.012153 rank=11
+[SoftImpute] Iter 34: observed MAE=0.012159 rank=11
+[SoftImpute] Iter 35: observed MAE=0.012165 rank=11
+[SoftImpute] Iter 36: observed MAE=0.012170 rank=11
+[SoftImpute] Iter 37: observed MAE=0.012175 rank=11
+[SoftImpute] Iter 38: observed MAE=0.012179 rank=11
+[SoftImpute] Iter 39: observed MAE=0.012183 rank=11
+[SoftImpute] Iter 40: observed MAE=0.012187 rank=11
+[SoftImpute] Iter 41: observed MAE=0.012190 rank=11
+[SoftImpute] Iter 42: observed MAE=0.012192 rank=11
+[SoftImpute] Iter 43: observed MAE=0.012194 rank=11
+[SoftImpute] Iter 44: observed MAE=0.012196 rank=11
+[SoftImpute] Iter 45: observed MAE=0.012197 rank=11
+[SoftImpute] Iter 46: observed MAE=0.012199 rank=11
+[SoftImpute] Iter 47: observed MAE=0.012199 rank=11
+[SoftImpute] Iter 48: observed MAE=0.012200 rank=11
+[SoftImpute] Iter 49: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 50: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 51: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 52: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 53: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 54: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 55: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 56: observed MAE=0.012201 rank=11
+[SoftImpute] Iter 57: observed MAE=0.012200 rank=11
+[SoftImpute] Iter 58: observed MAE=0.012200 rank=11
+[SoftImpute] Iter 59: observed MAE=0.012200 rank=11
+[SoftImpute] Iter 60: observed MAE=0.012200 rank=11
+[SoftImpute] Iter 61: observed MAE=0.012199 rank=11
+[SoftImpute] Iter 62: observed MAE=0.012199 rank=11
+[SoftImpute] Iter 63: observed MAE=0.012199 rank=11
+[SoftImpute] Iter 64: observed MAE=0.012198 rank=11
+[SoftImpute] Iter 65: observed MAE=0.012198 rank=11
+[SoftImpute] Iter 66: observed MAE=0.012198 rank=11
+[SoftImpute] Iter 67: observed MAE=0.012198 rank=11
+[SoftImpute] Iter 68: observed MAE=0.012197 rank=11
+[SoftImpute] Iter 69: observed MAE=0.012197 rank=11
+[SoftImpute] Iter 70: observed MAE=0.012197 rank=11
+[SoftImpute] Iter 71: observed MAE=0.012196 rank=11
+[SoftImpute] Iter 72: observed MAE=0.012196 rank=11
+[SoftImpute] Iter 73: observed MAE=0.012196 rank=11
+[SoftImpute] Iter 74: observed MAE=0.012195 rank=11
+[SoftImpute] Iter 75: observed MAE=0.012195 rank=11
+[SoftImpute] Iter 76: observed MAE=0.012195 rank=11
+[SoftImpute] Iter 77: observed MAE=0.012195 rank=11
+[SoftImpute] Iter 78: observed MAE=0.012194 rank=11
+[SoftImpute] Iter 79: observed MAE=0.012194 rank=11
+[SoftImpute] Stopped after iteration 79 for lambda=0.570960
+ACCURACY: 0.0 MSE: 0.018043822379178932 RMSE: 0.13432729573388624 MAE: 0.09391622396488646
+
+Dataset :  yacht
+=======================
+Normalizamos matriz...
+
+ -->Dataset:yacht Metodo:mean
+------------
+ACCURACY: 0.0 MSE: 0.09183125824982027 RMSE: 0.30303672755925193 MAE: 0.22483864478143895
+
+ -->Dataset:yacht Metodo:knn
+------------
+ACCURACY: 0.0 MSE: 0.0697449255912638 RMSE: 0.26409264584850484 MAE: 0.18587841617448853
+
+ -->Dataset:yacht Metodo:mice
+------------
+ACCURACY: 0.0 MSE: 0.06924943675810052 RMSE: 0.2631528771609775 MAE: 0.18314278120405844
+
+ -->Dataset:yacht Metodo:svd
+------------
+ACCURACY: 0.0 MSE: 0.09650094865515661 RMSE: 0.31064601825092913 MAE: 0.23411295694489317
+
+ -->Dataset:yacht Metodo:spectral
+------------
+[SoftImpute] Max Singular Value of X_init = 16.267162
+[SoftImpute] Iter 1: observed MAE=0.017914 rank=6
+[SoftImpute] Iter 2: observed MAE=0.017945 rank=6
+[SoftImpute] Iter 3: observed MAE=0.017974 rank=6
+[SoftImpute] Iter 4: observed MAE=0.018001 rank=6
+[SoftImpute] Iter 5: observed MAE=0.018027 rank=6
+[SoftImpute] Iter 6: observed MAE=0.018051 rank=6
+[SoftImpute] Iter 7: observed MAE=0.018072 rank=6
+[SoftImpute] Iter 8: observed MAE=0.018093 rank=6
+[SoftImpute] Iter 9: observed MAE=0.018113 rank=6
+[SoftImpute] Iter 10: observed MAE=0.018131 rank=6
+[SoftImpute] Iter 11: observed MAE=0.018148 rank=6
+[SoftImpute] Iter 12: observed MAE=0.018163 rank=6
+[SoftImpute] Iter 13: observed MAE=0.018177 rank=6
+[SoftImpute] Iter 14: observed MAE=0.018190 rank=6
+[SoftImpute] Iter 15: observed MAE=0.018201 rank=6
+[SoftImpute] Iter 16: observed MAE=0.018212 rank=6
+[SoftImpute] Iter 17: observed MAE=0.018222 rank=6
+[SoftImpute] Iter 18: observed MAE=0.018231 rank=6
+[SoftImpute] Iter 19: observed MAE=0.018239 rank=6
+[SoftImpute] Iter 20: observed MAE=0.018246 rank=6
+[SoftImpute] Iter 21: observed MAE=0.018252 rank=6
+[SoftImpute] Iter 22: observed MAE=0.018257 rank=6
+[SoftImpute] Iter 23: observed MAE=0.018261 rank=6
+[SoftImpute] Iter 24: observed MAE=0.018264 rank=6
+[SoftImpute] Iter 25: observed MAE=0.018265 rank=6
+[SoftImpute] Iter 26: observed MAE=0.018266 rank=6
+[SoftImpute] Iter 27: observed MAE=0.018268 rank=6
+[SoftImpute] Iter 28: observed MAE=0.018272 rank=6
+[SoftImpute] Iter 29: observed MAE=0.018275 rank=6
+[SoftImpute] Iter 30: observed MAE=0.018279 rank=6
+[SoftImpute] Iter 31: observed MAE=0.018282 rank=6
+[SoftImpute] Iter 32: observed MAE=0.018286 rank=6
+[SoftImpute] Iter 33: observed MAE=0.018288 rank=6
+[SoftImpute] Iter 34: observed MAE=0.018290 rank=6
+[SoftImpute] Iter 35: observed MAE=0.018294 rank=6
+[SoftImpute] Iter 36: observed MAE=0.018298 rank=6
+[SoftImpute] Iter 37: observed MAE=0.018302 rank=6
+[SoftImpute] Iter 38: observed MAE=0.018305 rank=6
+[SoftImpute] Iter 39: observed MAE=0.018308 rank=6
+[SoftImpute] Iter 40: observed MAE=0.018311 rank=6
+[SoftImpute] Iter 41: observed MAE=0.018313 rank=6
+[SoftImpute] Iter 42: observed MAE=0.018315 rank=6
+[SoftImpute] Iter 43: observed MAE=0.018317 rank=6
+[SoftImpute] Iter 44: observed MAE=0.018319 rank=6
+[SoftImpute] Iter 45: observed MAE=0.018320 rank=6
+[SoftImpute] Iter 46: observed MAE=0.018320 rank=6
+[SoftImpute] Iter 47: observed MAE=0.018321 rank=6
+[SoftImpute] Iter 48: observed MAE=0.018321 rank=6
+[SoftImpute] Iter 49: observed MAE=0.018322 rank=6
+[SoftImpute] Iter 50: observed MAE=0.018324 rank=6
+[SoftImpute] Iter 51: observed MAE=0.018325 rank=6
+[SoftImpute] Iter 52: observed MAE=0.018326 rank=6
+[SoftImpute] Iter 53: observed MAE=0.018327 rank=6
+[SoftImpute] Iter 54: observed MAE=0.018328 rank=6
+[SoftImpute] Iter 55: observed MAE=0.018328 rank=6
+[SoftImpute] Iter 56: observed MAE=0.018329 rank=6
+[SoftImpute] Iter 57: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 58: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 59: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 60: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 61: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 62: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 63: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 64: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 65: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 66: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 67: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 68: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 69: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 70: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 71: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 72: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 73: observed MAE=0.018331 rank=6
+[SoftImpute] Iter 74: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 75: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 76: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 77: observed MAE=0.018330 rank=6
+[SoftImpute] Iter 78: observed MAE=0.018329 rank=6
+[SoftImpute] Iter 79: observed MAE=0.018329 rank=6
+[SoftImpute] Iter 80: observed MAE=0.018329 rank=6
+[SoftImpute] Iter 81: observed MAE=0.018328 rank=6
+[SoftImpute] Iter 82: observed MAE=0.018328 rank=6
+[SoftImpute] Iter 83: observed MAE=0.018327 rank=6
+[SoftImpute] Iter 84: observed MAE=0.018327 rank=6
+[SoftImpute] Iter 85: observed MAE=0.018326 rank=6
+[SoftImpute] Iter 86: observed MAE=0.018326 rank=6
+[SoftImpute] Iter 87: observed MAE=0.018325 rank=6
+[SoftImpute] Iter 88: observed MAE=0.018325 rank=6
+[SoftImpute] Iter 89: observed MAE=0.018325 rank=6
+[SoftImpute] Iter 90: observed MAE=0.018324 rank=6
+[SoftImpute] Iter 91: observed MAE=0.018324 rank=6
+[SoftImpute] Iter 92: observed MAE=0.018323 rank=6
+[SoftImpute] Iter 93: observed MAE=0.018323 rank=6
+[SoftImpute] Iter 94: observed MAE=0.018323 rank=6
+[SoftImpute] Iter 95: observed MAE=0.018322 rank=6
+[SoftImpute] Iter 96: observed MAE=0.018322 rank=6
+[SoftImpute] Iter 97: observed MAE=0.018321 rank=6
+[SoftImpute] Iter 98: observed MAE=0.018321 rank=6
+[SoftImpute] Iter 99: observed MAE=0.018321 rank=6
+[SoftImpute] Iter 100: observed MAE=0.018320 rank=6
+[SoftImpute] Stopped after iteration 100 for lambda=0.325343
+ACCURACY: 0.0 MSE: 0.10650358897655143 RMSE: 0.3263488761686662 MAE: 0.2610539818242009
